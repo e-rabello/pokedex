@@ -34,12 +34,12 @@ document.addEventListener('DOMContentLoaded', function () {
             pokedexContainer.appendChild(card);
         }
     }
-
+    // 'Next' Button
     function showNextPokemon() {
         currentIndex = (currentIndex + 1) % pokemonData.length;
         renderPokemon(currentIndex);
     }
-
+    // 'Previous' Button
     function showPrevPokemon() {
         currentIndex = (currentIndex - 1 + pokemonData.length) % pokemonData.length;
         renderPokemon(currentIndex);
