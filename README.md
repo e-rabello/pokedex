@@ -1,1 +1,1 @@
-# pokedex-frontend
+# pokedex
