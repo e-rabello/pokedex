@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let pokemonData = [];
 
     // Fetch data from your backend API
-    fetch('http://localhost:3000/api/pokemon')
+    fetch('https://pokedexdb-api-0eb8c1c33e72.herokuapp.com/api/pokemon')
         .then(response => response.json())
         .then(data => {
             pokemonData = data;
