@@ -3,7 +3,7 @@ You can see what it actually looks like here:
 https://e-rabello.github.io/pokedex/
 
 My backend Pokédex-like API is functioning, and the frontend is currently retrieving all Pokémon from the database. I need to populate my database with more Pokémon and add additional details and information to each one.
-It's pretty okay i guess, at least for now...
+It's pretty okay, I guess, at least for now...
 
 
 
