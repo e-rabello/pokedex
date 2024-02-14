@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function () {
     let currentIndex = 0;
     let pokemonData = [];
 
-    // Fetch data from my backend API
+    // Fetch data from the API
     fetch('https://pokedexdb-api-0eb8c1c33e72.herokuapp.com/api/pokemon')
         .then(response => response.json())
         .then(data => {
@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function () {
         .catch(error => {
             console.error('Error fetching data:', error);
         });
-    // Cycle through the json data from the backend and put the Pokémon cards togethers
+    // Cycle through the JSON data and assemble the Pokémon cards
     function renderPokemon(index) {
         const pokemon = pokemonData[index];
 
