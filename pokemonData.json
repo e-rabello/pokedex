@@ -1,0 +1,128 @@
+[
+    {
+        "_id": "65c98e03023c54e6dac0496d",
+        "name": "JigglyPuff",
+        "strength": "Normal",
+        "image": "https://img.pokemondb.net/artwork/large/jigglypuff.jpg",
+        "createdAt": "2024-02-12T03:18:27.016Z",
+        "updatedAt": "2024-02-12T03:18:27.016Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9902a023c54e6dac0497e",
+        "name": "Bulbasaur",
+        "strength": "Grass",
+        "image": "https://img.pokemondb.net/artwork/large/bulbasaur.jpg",
+        "createdAt": "2024-02-12T03:27:38.582Z",
+        "updatedAt": "2024-02-12T03:27:38.582Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9be68cf4dbe14d566eb9b",
+        "name": "Abra",
+        "strength": "Psychic",
+        "image": "https://img.pokemondb.net/artwork/large/abra.jpg",
+        "createdAt": "2024-02-12T06:44:56.072Z",
+        "updatedAt": "2024-02-12T06:44:56.072Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9be9ecf4dbe14d566eb9e",
+        "name": "Eevee",
+        "strength": "Normal",
+        "image": "https://img.pokemondb.net/artwork/large/eevee.jpg",
+        "createdAt": "2024-02-12T06:45:50.018Z",
+        "updatedAt": "2024-02-12T06:45:50.018Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9bec6cf4dbe14d566eba0",
+        "name": "Pikachu",
+        "strength": "Electric",
+        "image": "https://img.pokemondb.net/artwork/large/pikachu.jpg",
+        "createdAt": "2024-02-12T06:46:30.339Z",
+        "updatedAt": "2024-02-12T06:46:30.339Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9beebcf4dbe14d566eba2",
+        "name": "Charmander",
+        "strength": "Fire",
+        "image": "https://img.pokemondb.net/artwork/large/charmander.jpg",
+        "createdAt": "2024-02-12T06:47:07.736Z",
+        "updatedAt": "2024-02-12T06:47:07.736Z",
+        "__v": 0
+    },
+    {
+        "_id": "65c9bf0acf4dbe14d566eba4",
+        "name": "Squirtle",
+        "strength": "Water",
+        "image": "https://img.pokemondb.net/artwork/large/squirtle.jpg",
+        "createdAt": "2024-02-12T06:47:38.584Z",
+        "updatedAt": "2024-02-12T06:47:38.584Z",
+        "__v": 0
+    },
+    {
+        "_id": "65ca3e2fcf4dbe14d566ebd9",
+        "name": "Pidgey",
+        "strength": "Normal",
+        "image": "https://img.pokemondb.net/artwork/large/pidgey.jpg",
+        "createdAt": "2024-02-12T15:50:07.739Z",
+        "updatedAt": "2024-02-12T15:50:07.739Z",
+        "__v": 0
+    },
+    {
+        "_id": "65ca3e7acf4dbe14d566ebdc",
+        "name": "Spearow",
+        "strength": "Normal",
+        "image": "https://img.pokemondb.net/artwork/large/spearow.jpg",
+        "createdAt": "2024-02-12T15:51:22.189Z",
+        "updatedAt": "2024-02-12T15:51:22.189Z",
+        "__v": 0
+    },
+    {
+        "_id": "65ca3ebdcf4dbe14d566ebde",
+        "name": "Meowth",
+        "strength": "Normal",
+        "image": "https://img.pokemondb.net/artwork/large/meowth.jpg",
+        "createdAt": "2024-02-12T15:52:29.983Z",
+        "updatedAt": "2024-02-12T15:52:29.983Z",
+        "__v": 0
+    },
+    {
+        "_id": "65cc3613cd78130540d1a0c3",
+        "name": "Ekans",
+        "strength": "Poison",
+        "image": "https://img.pokemondb.net/artwork/large/ekans.jpg",
+        "createdAt": "2024-02-14T03:40:03.902Z",
+        "updatedAt": "2024-02-14T03:40:03.902Z",
+        "__v": 0
+    },
+    {
+        "_id": "65cc3673cd78130540d1a0c6",
+        "name": "Nidoran♀",
+        "strength": "Poison",
+        "image": "https://img.pokemondb.net/artwork/large/nidoran-f.jpg",
+        "createdAt": "2024-02-14T03:41:39.408Z",
+        "updatedAt": "2024-02-14T03:41:39.408Z",
+        "__v": 0
+    },
+    {
+        "_id": "65cc3693cd78130540d1a0c8",
+        "name": "Nidoran♂",
+        "strength": "Poison",
+        "image": "https://img.pokemondb.net/artwork/large/nidoran-m.jpg",
+        "createdAt": "2024-02-14T03:42:11.451Z",
+        "updatedAt": "2024-02-14T03:42:11.451Z",
+        "__v": 0
+    },
+    {
+        "_id": "65cc374ccd78130540d1a0cb",
+        "name": "Gastly",
+        "strength": "Ghost",
+        "image": "https://img.pokemondb.net/artwork/large/gastly.jpg",
+        "createdAt": "2024-02-14T03:45:16.253Z",
+        "updatedAt": "2024-02-14T03:45:16.253Z",
+        "__v": 0
+    }
+]
